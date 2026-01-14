@@ -1,5 +1,5 @@
 import Navbar from "../Components/Navbar";
-import styles from "../Styles/gallery.module.css";
+import styles from "../Styles/Gallery.module.css";
 import I from "../assets/Gallery/I.png";
 import I1 from "../assets/Gallery/I1.png";
 import I2 from "../assets/Gallery/I2.png";
