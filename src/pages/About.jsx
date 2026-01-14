@@ -21,9 +21,9 @@ import c2 from "../assets/About/Image 03-1.png";
 import c3 from "../assets/About/Image 03-2.png";
 
 
-import ib1 from "../assets/About/Image Breaker.png";
-import ib2 from "../assets/About/Image Breaker-1.png";
-import ib3 from "../assets/About/Image Breaker-2.png";
+import ib1 from "../assets/About/Image breaker.png";
+import ib2 from "../assets/About/Image breaker-1.png";
+import ib3 from "../assets/About/Image breaker-2.png";
 
 
 
