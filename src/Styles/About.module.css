@@ -1,0 +1,48 @@
+.head{
+    text-align: start;
+}
+
+
+.AuthorInformation{
+    display:flex;
+    align-items: start;
+    gap:20px;
+    text-align: start;
+}
+
+
+.upImage{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+
+
+.cap{
+    text-align: start;
+    grid-area:cap;
+    gap:20px;
+}
+.container{
+    display:grid;
+    grid-template-areas: "cap rc rc rc rc rc rc rc rc rc rc rc";
+    text-align: start;
+                       
+}
+
+
+.rightColumnContainer{
+    grid-area:rc;
+}
+
+
+.founded{
+    grid-area:gr1;
+}
+
+
+.journey{
+    grid-area:journey;
+    margin-top:20px;
+}
+
