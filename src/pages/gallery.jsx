@@ -32,7 +32,6 @@ function Gallery() {
         <img src={I6} alt="Gallery Image" className= {styles.image7}/>
         <img src={I7} alt="Gallery Image" className= {styles.image8}/>
         <img src={I8} alt="Gallery Image" className= {styles.image1}/>
-      
 
     </div>
 </div>
