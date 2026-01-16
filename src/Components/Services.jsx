@@ -1,7 +1,7 @@
 import sm1a from "../assets/Services/Image.png";
 import sm1b from "../assets/Services/Image-1.png";
 import sm1c from "../assets/Services/Image-2.png";
-import styles from "../styles/Services.module.css";
+import styles from "../Styles/Services.module.css";
 function Services(){
     return(
         <>
