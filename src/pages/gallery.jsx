@@ -6,7 +6,7 @@ import I2 from "../assets/Gallery/I2.png";
 import I3 from "../assets/Gallery/I3.png";
 import I4 from "../assets/Gallery/I4.png";
 import I5 from "../assets/Gallery/I5.png";
-import I6 from "../assets/Gallery/I6. png";
+import I6 from "../assets/Gallery/I6.png";
 import I7 from "../assets/Gallery/I7.png";
 import I8 from "../assets/Gallery/I8.png";
 import Footer from "../Components/Footer.jsx";
