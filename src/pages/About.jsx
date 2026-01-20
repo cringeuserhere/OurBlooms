@@ -107,8 +107,11 @@ function About(){
 
 
                 <p className="paragraph2">From humble beginnings, Bloom&Co has grown into a beloved local destination, known for its artistic arrangements, personal service, and commitment to quality. Discover how we can add a touch of natural beauty to your next event.</p>
-            </div>
+                <p className='paragraph2'>Discover how we can add a touch of natural beauty to your next event.</p>
+              
+                <button className='button_danger'>WORK A CONSULTATION</button>
                 </div>
+            </div>
 
 
                

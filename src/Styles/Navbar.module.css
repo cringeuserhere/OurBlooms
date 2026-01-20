@@ -8,3 +8,33 @@ align-items: center;
     display:flex;
     gap:20px;
 }
+
+.mobile_navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items:start;
+}
+
+.mobile_ul{
+    text-align: end;
+    list-style:none;
+    padding-left:0px;
+    
+}
+
+.mobile_ul li{
+    margin-bottom:20px;
+}
+
+
+@media screen and (max-width: 799px) {
+    .navbar {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .mobile_navbar {
+        display: none;
+    }
+}
